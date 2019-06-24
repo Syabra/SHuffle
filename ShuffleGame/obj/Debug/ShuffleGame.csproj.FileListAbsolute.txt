@@ -1,0 +1,10 @@
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csprojAssemblyReference.cache
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Form1.resources
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Properties.Resources.resources
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csproj.GenerateResource.cache
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csproj.CoreCompileInputs.cache
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+C:\Users\Fly\source\repos\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
